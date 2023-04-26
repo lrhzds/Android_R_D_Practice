@@ -231,8 +231,7 @@ class MainActivity : AppCompatActivity() {
                 // Bind use cases to camera
                 // Bind use cases to camera
                 cameraProvider.bindToLifecycle(this, cameraSelector, preview, videoCapture)
-                cameraProvider.bindToLifecycle(
-                    this, cameraSelector, preview, imageCapture, imageAnalyzer)
+//                cameraProvider.bindToLifecycle(this, cameraSelector, preview, imageCapture, imageAnalyzer)
 
 
             } catch (exc: Exception) {
