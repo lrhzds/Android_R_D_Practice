@@ -54,7 +54,6 @@ class MainActivity : AppCompatActivity() {
         viewBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(viewBinding.root)
 
-        // Request camera permissions
         if (allPermissionsGranted()) {
             startCamera()
         } else {
