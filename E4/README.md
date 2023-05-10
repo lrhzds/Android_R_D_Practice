@@ -108,8 +108,8 @@ private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListe
 
 #### 扫描玫瑰
 
-<img src="pic\2.jpg" width="50%" />
+<img src="pic\2.jpg" width="40%" />
 
 #### 扫描郁金香
 
-<img src="pic\3.jpg" width="50%" />
+<img src="pic\3.jpg" width="40%" />
