@@ -4,19 +4,19 @@
 
 1. 打开后效果如下：
 
-<img src="pic\f1.png" style="zoom:33%;" />
+<img src="pic\f1.png"  width = "50%" />
 
 2. 点击take photo实现拍照，点击start capture录视频，点击后start capture按钮文字改变，并开始录制
 
-<img src="pic\f2.png" style="zoom:33%;" />
+<img src="pic\f2.png"  width = "50%" />
 
 3. 点击stop capture结束录制
 
-<img src="pic\f3.png" style="zoom:33%;" />
+<img src="pic\f3.png"  width = "50%" />
 
 4. 此时相册力会有所记录
 
-<img src="pic\f4.png" style="zoom:33%;" />
+<img src="pic\f4.png"  width = "50%" />
 
 **项目依赖**
 

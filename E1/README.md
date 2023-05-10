@@ -4,20 +4,20 @@
 
 > **上学期安装过了**
 
-<img src="pic\android.png"/>
+<img src="pic\android.png" width = "50%"/>
 
 ## 2.安装Jupyter Notebook和相关的Python环境，后续用于机器学习模型构建
 
 > **Juputer**
 
-<img src="pic\Jupyter.png"/>
+<img src="pic\Jupyter.png"  width = "50%"/>
 
 > ANACONDA
 
-<img src="pic\ANACONDA.png"/>
+<img src="pic\ANACONDA.png"  width = "50%"/>
 
 ## 安装Visual Studio Code代码编辑器
 
 > Visual Studio Code 插件已安好
 
-<img src="pic\VSC.png">
+<img src="pic\VSC.png"  width = "50%">

@@ -93,12 +93,12 @@ plugins {
 
 1. 我这里点击了六次count按钮
 
-<img src="pic\first.png" style="zoom:33%;" />
+<img src="pic\first.png"  width = "50%" />
 
 2. 点击toast ，弹出一条toast
 
-<img src="pic\three.png" style="zoom:33%;" />
+<img src="pic\three.png"  width = "50%" />
 
 3. 点击random按钮，生成一个0到6的随机数
 
-<img src="pic\second.png" style="zoom:33%;" />
+<img src="pic\second.png"  width = "50%" />
