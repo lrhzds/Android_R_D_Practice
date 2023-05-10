@@ -104,7 +104,7 @@ git clone https://github.com/hoitab/TFLClassify.git
     }
 ```
 
-## 运行效果
+## 运行效果图
 
 #### 扫描玫瑰
 
