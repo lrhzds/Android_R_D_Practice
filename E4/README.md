@@ -18,7 +18,7 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 > 模型训练任务以后完成，这里选择finish模块中ml文件下的FlowerModel.tflite
 
-<img src="pic\1.png" style="zoom:33%;" />
+<img src="pic\1.png" width="50%" />
 
 ## 添加代码
 
@@ -108,8 +108,8 @@ private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListe
 
 #### 扫描玫瑰
 
-<img src="pic\2.jpg" style="zoom:33%;" />
+<img src="pic\2.jpg" width="50%" />
 
 #### 扫描郁金香
 
-<img src="pic\3.jpg" style="zoom:33%;" />
+<img src="pic\3.jpg" width="50%" />
