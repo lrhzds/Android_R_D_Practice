@@ -8,7 +8,7 @@ print("Hello World！")
 ```
 
     Hello World！
-    
+
 
 
 ```python
@@ -32,7 +32,7 @@ print('%d squared is %d' % (x, y))
 ```
 
     3 squared is 9
-    
+
 
 ## 数据分析
 
@@ -73,7 +73,7 @@ df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -153,7 +153,7 @@ df.tail()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -276,7 +276,7 @@ df.loc[non_numberic_profits].head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -361,9 +361,9 @@ bin_sizes, _, _ = plt.hist(df.year[non_numberic_profits], bins=range(1955, 2006)
 ```
 
 
-    
+​    
 ![png](output_25_0.png)
-    
+​    
 
 
 > 删除这些记录(profit为字符串)
@@ -429,9 +429,9 @@ plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005'
 ```
 
 
-    
+​    
 ![png](output_33_0.png)
-    
+​    
 
 
 > 收入曲线
@@ -445,9 +445,9 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 ```
 
 
-    
+​    
 ![png](output_35_0.png)
-    
+​    
 
 
 > 对数据结果进行标准差处理
@@ -469,11 +469,11 @@ fig.tight_layout()
 ```
 
 
-    
+​    
 ![png](output_37_0.png)
-    
+​    
 
-
+## 选择排序
 
 ```python
 def selection_sort(num_list):
@@ -503,4 +503,4 @@ if __name__ == '__main__':
 ```
 
     [1, 2, 3, 4, 5, 6, 12, 25, 33]
-    
+
