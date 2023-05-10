@@ -108,8 +108,8 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 #### 扫描玫瑰
 
-<img src="pic\2.jpg" width="40%" />
+<img src="pic\rose.jpg" width="40%" />
 
 #### 扫描郁金香
 
-<img src="pic\3.jpg" width="40%" />
+<img src="pic\dup.jpg" width="40%" />
