@@ -1,3 +1,5 @@
+# 实验5.2
+
 ```python
 import os
 import zipfile
@@ -119,7 +121,7 @@ zip_ref.close()
     Successfully built jax
     Installing collected packages: libclang, flatbuffers, termcolor, tensorflow-io-gcs-filesystem, tensorflow-estimator, tensorboard-data-server, rsa, protobuf, opt-einsum, oauthlib, ml-dtypes, keras, grpcio, google-pasta, gast, cachetools, astunparse, absl-py, requests-oauthlib, jax, google-auth, google-auth-oauthlib, tensorboard, tensorflow-intel, tensorflow
     Successfully installed absl-py-1.4.0 astunparse-1.6.3 cachetools-5.3.1 flatbuffers-23.5.26 gast-0.4.0 google-auth-2.19.1 google-auth-oauthlib-1.0.0 google-pasta-0.2.0 grpcio-1.54.2 jax-0.4.11 keras-2.12.0 libclang-16.0.0 ml-dtypes-0.2.0 oauthlib-3.2.2 opt-einsum-3.3.0 protobuf-4.23.2 requests-oauthlib-1.3.1 rsa-4.9 tensorboard-2.12.3 tensorboard-data-server-0.7.0 tensorflow-2.12.0 tensorflow-estimator-2.12.0 tensorflow-intel-2.12.0 tensorflow-io-gcs-filesystem-0.31.0 termcolor-2.3.0
-    
+
 
 
 ```python
@@ -134,7 +136,7 @@ zip_ref.close()
     Requirement already satisfied: numpy>=1.9.1 in d:\software\a\lib\site-packages (from keras_preprocessing) (1.23.5)
     Installing collected packages: keras_preprocessing
     Successfully installed keras_preprocessing-1.1.2
-    
+
 
 
 ```python
@@ -162,7 +164,7 @@ print(scissors_files[:10])
     ['rock01-000.png', 'rock01-001.png', 'rock01-002.png', 'rock01-003.png', 'rock01-004.png', 'rock01-005.png', 'rock01-006.png', 'rock01-007.png', 'rock01-008.png', 'rock01-009.png']
     ['paper01-000.png', 'paper01-001.png', 'paper01-002.png', 'paper01-003.png', 'paper01-004.png', 'paper01-005.png', 'paper01-006.png', 'paper01-007.png', 'paper01-008.png', 'paper01-009.png']
     ['scissors01-000.png', 'scissors01-001.png', 'scissors01-002.png', 'scissors01-003.png', 'scissors01-004.png', 'scissors01-005.png', 'scissors01-006.png', 'scissors01-007.png', 'scissors01-008.png', 'scissors01-009.png']
-    
+
 
 
 ```python
@@ -190,37 +192,37 @@ for i, img_path in enumerate(next_rock+next_paper+next_scissors):
 ```
 
 
-    
+​    
 ![png](output_4_0.png)
-    
+​    
 
 
 
-    
+
 ![png](output_4_1.png)
     
 
 
 
-    
+
 ![png](output_4_2.png)
     
 
 
 
-    
+
 ![png](output_4_3.png)
     
 
 
 
-    
+
 ![png](output_4_4.png)
     
 
 
 
-    
+
 ![png](output_4_5.png)
     
 
@@ -382,7 +384,7 @@ model.save("rps.h5")
     20/20 [==============================] - 627s 33s/step - loss: 0.1292 - accuracy: 0.9563 - val_loss: 0.2426 - val_accuracy: 0.8575
     Epoch 25/25
     20/20 [==============================] - 87s 4s/step - loss: 0.0903 - accuracy: 0.9671 - val_loss: 0.1004 - val_accuracy: 0.9731
-    
+
 
 
 ```python
@@ -404,9 +406,9 @@ plt.show()
 ```
 
 
-    
+​    
 ![png](output_6_0.png)
-    
+​    
 
 
 
